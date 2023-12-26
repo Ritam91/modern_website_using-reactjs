@@ -88,6 +88,10 @@
   .whatgpt__heading p {
     margin-top: 1rem;
   }
+
+  .whatgpt__feature .features__container-feature-text {
+    max-width: 700px;
+  }
 }
 
 @media screen and (max-width: 650px) {
