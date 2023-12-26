@@ -7,7 +7,7 @@ const Whatgpt = () => {
       <div className="whatgpt__feature">
         <Feature
           title="What is GPT?"
-          text="Lorem ipsum dolor sit amet consectetur adipisicinconsectetur adipisicing elit consectetur adipisicing elitconsectetur adipisicing elitolor sit amet consectetur adipisi Lorem ipsum dolor sit amet consectetur adipisi elit. Dolor recusandae cum laboriosam numquam."
+          text="Lorem ipsum dolor sit amet consectetur adipisicinconsectetur  adipisicing adipisicing adipisicing elit consectetur adipisicing elitconsectetur adipisicing elitolor sit amet consectetur adipisi Lorem ipsum dolor sit amet consectetur adipisi elit. Dolor recusandae cum laboriosam numquam."
         />
       </div>
 

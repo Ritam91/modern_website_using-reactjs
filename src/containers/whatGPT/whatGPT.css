@@ -21,7 +21,7 @@
 }
 
 .whatgpt__feature .features__container-feature-text {
-  max-width: 700px;
+  max-width: 850px;
 }
 
 .whatgpt__heading {
@@ -35,16 +35,16 @@
 .whatgpt__heading h1 {
   color: #fff;
   font-family: var(--font-family);
-  font-size: 34px;
+  font-size: 40px;
   font-weight: 800;
-  line-height: 45px;
+  line-height: 50px;
   max-width: 510px;
 }
 
 .whatgpt__heading p {
   color: var(--color-subtext);
   font-family: var(--font-family);
-  font-size: 16px;
+  font-size: 18px;
   font-weight: 500;
   line-height: 30px;
   cursor: pointer;
@@ -78,7 +78,7 @@
   .whatgpt{
     padding: 2rem;
   }
-  
+
   .whatgpt__heading {
     flex-direction: column;
     align-items: flex-start;
