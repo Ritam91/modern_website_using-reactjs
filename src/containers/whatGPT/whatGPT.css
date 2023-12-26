@@ -1,7 +1,7 @@
 .whatgpt {
   display: flex;
   flex-direction: column;
-  padding: 2rem;
+  padding: 4rem;
   background: var(--color-bg);
   background: radial-gradient(
     circle at 30% -100%,
@@ -62,7 +62,7 @@
 .whatgpt__container .features__container-feature {
   flex: 1;
   margin: 1rem;
-  min-width: 210px;
+  min-width: 310px;
   display: unset;
   flex-direction: column;
 }
@@ -74,6 +74,11 @@
 /* =============================== BREAKPOINTS ================================== */
 
 @media screen and (max-width: 850px) {
+
+  .whatgpt{
+    padding: 2rem;
+  }
+  
   .whatgpt__heading {
     flex-direction: column;
     align-items: flex-start;

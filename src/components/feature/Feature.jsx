@@ -8,7 +8,9 @@ const Feature = ({title , text}) => {
         <h1>{title}</h1>
       </div>
       <div className="features__container-feature-text">
+        <p>
         {text}
+        </p>
       </div>
     </div>
   )
