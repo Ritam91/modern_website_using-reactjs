@@ -23,6 +23,6 @@
 
 @media (max-width: 768px) {
     .brand div {
-        flex-basis: 100%; /* Adjust as needed */
+        display: none;
     }
 }
