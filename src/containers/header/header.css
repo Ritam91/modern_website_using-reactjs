@@ -17,7 +17,6 @@
   font-family: var(--font-family);
   font-weight: 800;
   font-size: 62px;
-  font-style: normal;
   line-height: 75px;
   letter-spacing: -2.48px;
 }
@@ -121,6 +120,11 @@
 
 /* ==================== FOR MEDIUM DEVICES ============================= */
 @media screen and (max-width: 650px) {
+
+  .header{
+    padding: 0 2rem;
+    padding-top: 1rem;
+  }
   .header h1 {
     font-size: 48px;
     line-height: 60px;
@@ -149,6 +153,10 @@
 /* ==================== FOR SMALL DEVICES ============================= */
 @media screen and (max-width: 490px){
 
+    .header{
+      padding: 0 3rem;
+    }
+
     .header__content {
         margin: 0;
       }
@@ -166,9 +174,5 @@
       .header__content-input button {
         font-size: 12px;
         line-height: 16px;
-      }
-
-      .header__image img{
-        
       }
 }

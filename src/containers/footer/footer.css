@@ -85,4 +85,57 @@
   font-family: var(--font-family);
   font-size: 14px;
   font-weight: 400;
+  margin-bottom: 1rem;
+}
+
+.footer__links-div p {
+  color: #fff;
+  font-family: var(--font-family);
+  font-size: 12px;
+  font-weight: 400;
+  margin: 0.5rem 0;
+  cursor: pointer;
+}
+
+.footer__copyright{
+margin-top: 2rem;
+text-align: center;
+width: 100%;
+}
+
+.footer__copyright p{
+  color: #FFF;
+  font-family:var(--font-family);
+  font-size: 12px;
+  font-weight: 400;
+}
+
+@media screen and (max-width: 850px) {
+  .footer__heading h1{
+    font-size: 44px;
+    line-height: 50px;
+  }
+}
+
+@media screen and (max-width: 550px) {
+  .footer__heading h1{
+    font-size: 34px;
+    line-height: 42px;
+  }
+
+  .footer__links div{
+    margin: 1rem 0;
+  }
+
+  .footer__btn p{
+    font-size: 14px;
+    line-height: 20px;
+  }
+}
+
+@media screen and (max-width: 550px) {
+  .footer__heading h1{
+    font-size: 27px;
+    line-height: 38px;
+  }
 }
