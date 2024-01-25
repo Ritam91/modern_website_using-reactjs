@@ -7,29 +7,29 @@ const Whatgpt = () => {
       <div className="whatgpt__feature">
         <Feature
           title="What is GPT?"
-          text="Lorem ipsum dolor sit amet consectetur adipisicinconsectetur  adipisicing adipisicing adipisicing elit consectetur adipisicing elitconsectetur adipisicing elitolor sit amet consectetur adipisi Lorem ipsum dolor sit amet consectetur adipisi elit. Dolor recusandae cum laboriosam numquam."
+          text="Welcome to InnovateHub.com – your portal to the latest in tech and innovation. Dive into cutting-edge advancements, inspiring stories, and join a community of forward-thinkers exploring limitless possibilities."
         />
       </div>
 
       <div className="whatgpt__heading">
         <h1 className="gradient__text">
-          The possibilities are beyond your imagination
+        Your Gateway to Tech Innovation
         </h1>
         <p>Explore the Library</p>
       </div>
 
       <div className="whatgpt__container">
         <Feature
-          title="Chatbots"
-          text="Lorem ipsum dolor sit amet consectetur ading elit. Dolor recusandae cum consectetur adipicing elit consectetur adipisicing elit  laboriosam numquam."
+          title="Tech Spotlight"
+          text="Discover the latest tech breakthroughs – from gadgets to software. Stay informed on trends shaping the future."
         />
         <Feature
-          title="Knowledgebase"
-          text="Lorem ipsum dolor sit amet consctetur adipielitconsectetur adipisicing elit adipisicing elit. Dolor recusandae cum laboriosam numquam."
+          title="Community"
+          text="Explore our 1.5k+ innovator community. Discover stories, projects, and join the conversation. Be part of a network celebrating creativity and innovation"
         />
         <Feature
-          title="Education"
-          text="Lorem ipsum dolor sit amet consectecng elitconsectetur adipisicing elittur adipisicing elit. Dolor recusandae cum laboriosam numquam."
+          title=" Learn & Grow"
+          text="Discover, learn, and grow in our tech hub. From guides to tutorials, find something new whether you're a pro or a beginner."
         />
       </div>
     </div>

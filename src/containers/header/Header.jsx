@@ -1,20 +1,20 @@
 import React from "react";
 import "./header.css";
-import people from '../../assets/Group 81.png';
-import illustration from '../../assets/Illustration.png'
+import people from "../../assets/Group 81.png";
+import illustration from "../../assets/Illustration.png";
 const Header = () => {
   return (
     <div className="header" id="home">
       <div className="header__content">
         <h1 className="gradient__text">
-          Lorem ipsum dolor sit amet consectetur adipisicing.
+          Navigating the Future with Cutting-Edge Innovations.
         </h1>
 
         <p className="header__content-subcontent">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim,
-          voluptatibus magni! nem mollitia expedita nihil
-          laboriosam, aut tempore itatibus? Reiciendis
-          tenetur adipisci porro libero facere voluptatibus.
+          Embark on a journey through the ever-evolving landscape of tomorrow's
+          possibilities. Discover how cutting-edge innovations are reshaping
+          industries, propelling us into a future defined by unprecedented
+          advancements.
         </p>
 
         <div className="header__content-input">
@@ -26,14 +26,15 @@ const Header = () => {
           <div>
             <img src={people} alt="people" />
           </div>
-            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Facere.
-            </p>
+          <p>
+          Join Our Thriving Community of 1.5k+ Innovators!
+          </p>
         </div>
       </div>
 
-        <div className="header__image">
-          <img src={illustration} alt="illustration" />
-        </div>
+      <div className="header__image">
+        <img src={illustration} alt="illustration" />
+      </div>
     </div>
   );
 };
