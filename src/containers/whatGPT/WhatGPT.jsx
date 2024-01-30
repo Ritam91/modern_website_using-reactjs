@@ -6,15 +6,13 @@ const Whatgpt = () => {
     <div className="whatgpt section__margin" id="wgpt">
       <div className="whatgpt__feature">
         <Feature
-          title="What is GPT?"
-          text="Welcome to InnovateHub.com – your portal to the latest in tech and innovation. Dive into cutting-edge advancements, inspiring stories, and join a community of forward-thinkers exploring limitless possibilities."
+          title="What is Innov8r?"
+          text="Welcome to Innov8r – your portal to the latest in tech and innovation. Dive into cutting-edge advancements, inspiring stories, and join a community of forward-thinkers exploring limitless possibilities."
         />
       </div>
 
       <div className="whatgpt__heading">
-        <h1 className="gradient__text">
-        Your Gateway to Tech Innovation
-        </h1>
+        <h1 className="gradient__text">Your Gateway to Tech Innovation</h1>
         <p>Explore the Library</p>
       </div>
 

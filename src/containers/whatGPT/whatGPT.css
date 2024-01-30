@@ -21,7 +21,7 @@
 }
 
 .whatgpt__feature .features__container-feature-text {
-  max-width: 850px;
+  max-width: 650px;
 }
 
 .whatgpt__heading {
@@ -101,7 +101,8 @@
   }
 
   .whatgpt__feature .features__container-feature-text {
-    margin-top: 0.5rem;
+    margin-top: 0 .5rem;
+
   }
 
   .whatgpt__heading h1 {
@@ -110,9 +111,10 @@
   }
 }
 
-@media screen and (max-width: 350px) {
+@media screen and (max-width: 450px) {
+
   /* Customizing feature component */
-  .whatgpt__container .features__container-feature-text {
+  .whatgpt__feature .features__container-feature-text {
     margin: 1rem 0;
     min-width: 100%;
   }

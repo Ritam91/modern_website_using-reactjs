@@ -4,23 +4,23 @@ import { Feature } from '../../components';
 
 const featureseData = [
 {
-  title : 'Improving end distrusts instantly ' , 
-  text : 'From they fine john he give of rich he. They age and draw mrs like. Improving end distrusts may instantly was household applauded.'
+  title : 'Exclusive Beta Releases' , 
+  text : 'Be among the first to test our latest innovations before they hit the market. Your feedback shapes the future of technology.'
 } ,
 
 {
-  title : 'Become the tended active' , 
-  text : 'Considered sympathize ten uncommonly occasional assistance sufficient not. Letter of on become he tended active enable to.'
+  title : 'Insider Updates' , 
+  text : 'Stay in the loop with insider information and sneak peeks into upcoming features and developments. Knowledge is power'
 } ,
 
 {
-  title : 'Message or am nothing' , 
-  text : 'Led ask possible mistress relation elegance eat likewise debating. By message or am nothing amongst chiefly address.'
+  title : 'VIP Access' , 
+  text : 'Unlock VIP benefits including early access to events, special offers, and priority support. Join our inner circle of innovators.'
 } ,
 
 {
-  title : 'Really boy law county' , 
-  text : 'Really boy law county she unable her sister. Feet you off its like like six. Among sex are leave law built now. In built table in an rapid blush.'
+  title : 'Join the Community' , 
+  text : 'Connect with like-minded individuals, share ideas, and collaborate on projects. Together, we can drive innovation forward.'
 }
 ];
 const Features = () => {

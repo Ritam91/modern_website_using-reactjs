@@ -16,6 +16,10 @@
   margin-right: 2rem;
 }
 
+.logo{
+  scale: 1.7;
+}
+
 .navbar__logo img {
   width: 62.56px;
   height: 16.02px;

@@ -19,13 +19,13 @@ const Blog = () => {
 
       <div className="blog__container">
         <div className="blog__container-groupA">
-          <Article imgUrl={Blog1} date="Dec 28, 2023" title="GPT-3 and Open  AI is the future. Let us exlore how it is?" />
+          <Article imgUrl={Blog1} date="Dec 28, 2023" title="Open  AI is the future. Let us exlore how it is?" />
         </div>
         <div className="blog__container-groupB">
-        <Article imgUrl={Blog2} date="Dec 28, 2023" title="GPT-3 and Open  AI is the future. Let us exlore how it is?"/>
-        <Article imgUrl={Blog3} date="Dec 28, 2023" title="GPT-3 and Open  AI is the future. Let us exlore how it is?"/>
-        <Article imgUrl={Blog4} date="Dec 28, 2023" title="GPT-3 and Open  AI is the future. Let us exlore how it is?"/>
-        <Article imgUrl={Blog5} date="Dec 28, 2023" title="GPT-3 and Open  AI is the future. Let us exlore how it is?"/>
+        <Article imgUrl={Blog2} date="Dec 22, 2023" title="Unleashing the Power of AI: Transforming Industries"/>
+        <Article imgUrl={Blog3} date="Dec 12, 2023" title="The Evolution of Virtual Reality: From Fantasy to Reality"/>
+        <Article imgUrl={Blog4} date="Dec 28, 2023" title="Blockchain Beyond Bitcoin: Exploring Revolutionary Applications"/>
+        <Article imgUrl={Blog5} date="Jan 18, 2024" title="The Rise of IoT: Connecting the World Around Us"/>
           </div>
       </div>
     </div>

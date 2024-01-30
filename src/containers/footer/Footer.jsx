@@ -1,6 +1,6 @@
 import React from 'react'
 import './footer.css';
-import Logo from '../../assets/GPT-3.svg';
+import Logo from '../../assets/logo.png';
 const Footer = () => {
   return (
     <div className="footer section__padding">
@@ -36,7 +36,7 @@ const Footer = () => {
         
         <div className="footer__links-div">
           <h4>Get in touch</h4>
-          <p>Lorem ipsum dolor amet.</p>
+          <p>Lorem ipsum amet.</p>
           <p>085-132567</p>
           <p>Counters</p>
           <p>info@info.com</p>
@@ -45,7 +45,7 @@ const Footer = () => {
       </div>
 
       <div className="footer__copyright">
-        <p>© 2023. All rights reserved.</p>
+        <p>© 2024. All rights reserved.</p>
       </div>
     </div>
   )

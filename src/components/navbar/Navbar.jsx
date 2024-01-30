@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import "./navbar.css";
 import { RiMenu3Line, RiCloseLine } from "react-icons/ri";
-import logo from "../../assets/GPT-3.svg";
+import logo from "../../assets/logo.png";
 
 const Menu = () => (
   <>
@@ -9,16 +9,16 @@ const Menu = () => (
       <a href="#home">Home</a>
     </p>
     <p>
-      <a href="#wgpt">What is GPT</a>
+      <a href="#wgpt">What is Innov8r</a>
     </p>
     <p>
-      <a href="#possibility">Open AI</a>
+      <a href="#possibility">Exclusive releases</a>
     </p>
     <p>
-      <a href="#features">CaseStudies</a>
+      <a href="#features">AI and VR</a>
     </p>
     <p>
-      <a href="#blog">Library</a>
+      <a href="#blog">Blog</a>
     </p>
   </>
 );
@@ -29,7 +29,7 @@ const Navbar = () => {
     <div className="navbar">
       <div className="navbar__links">
         <div className="navbar__logo">
-          <img src={logo} alt="logo" />
+          <img src={logo} alt="logo" class="logo" />
         </div>
 
         <div className="navbar__links-container">
